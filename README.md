@@ -1,2 +1,1 @@
-# Time-Series-Repository
-Walmart Intern Project
+# Time Series Forecasting Project
